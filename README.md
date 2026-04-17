@@ -1,7 +1,7 @@
 # [TCSVT2026] GroupSD: Self-Distillation from Intermediate ViT Layers for Generalizable Person Re-identification
 
 ## Pipeline
-![image](figs/GroupSD.bmp)
+![image](figs/GroupSD.jpg)
 
 ## Requirements
 ### Installation
